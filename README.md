@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 ## Hi there 👋 I'm João Victor!
 
 🎯 **Currently seeking opportunities in Tech** after spending 3 years living in Ireland. I'm actively studying **DevOps (Terraform & Docker)** and **Front-end development (HTML, CSS, JavaScript)** to stay sharp and updated.
@@ -49,7 +45,5 @@ Feel free to explore the repositories – feedback and contributions are always 
 ### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jvioliveira/)  
-- 📧 jooao.voliveira[at]icloud.com
+- 📧 jooao.voliveira@icloud.com
 - [Instagram](https://instagram.com/joaovoliveira_)
-
--->
